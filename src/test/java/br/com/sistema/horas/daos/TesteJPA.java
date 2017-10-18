@@ -4,7 +4,8 @@ package br.com.sistema.horas.daos;
 import java.util.List;
 
 
-import br.com.sistema.horas.modelos.Usuario;
+
+import br.com.sistema.horas.Domain.Usuario;
 
 public class TesteJPA {
 	

@@ -3,7 +3,7 @@ package br.com.sistema.horas.modelo;
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.com.sistema.horas.modelos.HoraLancada;
+import br.com.sistema.horas.Domain.HoraLancada;
 
 public class HoraLancadaTest {
 	@Test

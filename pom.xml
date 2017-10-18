@@ -84,7 +84,7 @@
 
 	<build>
 		<finalName>sistema-horas</finalName>
-		<outputDirectory>c:\Users\Victor\vraptor4\vraptor-blank-project/src/main/webapp/WEB-INF/classes</outputDirectory>
+		<outputDirectory>C:\Temp\vraptor4\vraptor-blank-project/src/main/webapp/WEB-INF/classes</outputDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
